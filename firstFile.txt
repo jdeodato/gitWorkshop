@@ -1,3 +1,4 @@
 GIT WS first file
 ninja
+pirates
 changed
